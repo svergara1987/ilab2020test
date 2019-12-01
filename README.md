@@ -1,6 +1,6 @@
 # Test de Programación
 
-Bienvenido al test de programación para candidatos del **IBM Innovation Lab 2020**. 
+Bienvenido al test de programación para candidatos del **IBM Innovation Lab 2020**.
 
 El test consta de 4 pruebas que podrán ser resueltas utilizando alguno de los siguientes lenguajes de programación: 
 - Java
@@ -28,7 +28,7 @@ Agregar como colaborador al repositorio al usuario `svergara1987`
 
 Codificar la función `factorial (num)` para que tome el parámetro `num` que se pasa y devuelva el factorial del mismo.
 
-Por ejemplo: si num = 4, entonces tu programa debería devolver (4 * 3 * 2 * 1) = 24.
+Por ejemplo: si num = 4, entonces tu programa debería devolver (4*3*2*1) = 24.
 
 La entrada siempre será un número entero.
 
@@ -53,7 +53,7 @@ Tiempo estimado de resolución: < 20 min
 
 ## Ejercicio 3
 
-Desarrollar la función `numeroPentagonal (num)` para que dado el parámetro `num`(entero positivo), determine cuántos puntos existen en una forma pentagonal alrededor de un punto central en la iteración número `num`. 
+Desarrollar la función `numeroPentagonal (num)` para que dado el parámetro `num`(entero positivo), determine cuántos puntos existen en una forma pentagonal alrededor de un punto central en la iteración número `num`.
 
 Por ejemplo, en la imagen a continuación puede ver que en la primera iteración solo hay un punto, en la segunda iteración hay 6 puntos, en la tercera hay 16 puntos y en la cuarta hay 31 puntos.
 
@@ -63,7 +63,7 @@ Tiempo estimado de resolución: < 30 min
 
 ## Ejercicio 4
 
-Luego de la introducción a Watson Assistant, el objetivo de este último ejercicio es crear una aplicación que se integra con un asistente virtual desplegado en la nube utilizando Watson Assistant. 
+Luego de la introducción a Watson Assistant, el objetivo de este último ejercicio es crear una aplicación que se integra con un asistente virtual desplegado en la nube utilizando Watson Assistant.
 
 El asistente virtual deberá ser capaz de responder las siguientes preguntas (que podrán venir presentadas de diversas formas):
 1. color favorito?
@@ -85,8 +85,8 @@ Adicional a responder las preguntas anteriores, el asistente deberá ser capaz d
 - U: Python / el segundo / 2
 - WA: Perfecto, te enseño de Python entonces
 
-La aplicación de escritorio recibe 2 parámetros de tipo string al momento de su ejecución. 
-La lógica de la aplicación deberá hacer un llamado al assistente virtual utilizando el primer parámetro, y luego de obtener una respuesta del asistente, mantener una conversación respondiendo con el segundo parámetro. 
+La aplicación de escritorio recibe 2 parámetros de tipo String al momento de su ejecución. 
+La lógica de la aplicación deberá hacer un llamado al asistente virtual utilizando el primer parámetro, y luego de obtener una respuesta del asistente, mantener una conversación respondiendo con el segundo parámetro. 
 
 Ejemplo de interacción aplicación (A) con el asistente virtual (WA):
 - A: param1
@@ -96,11 +96,11 @@ Ejemplo de interacción aplicación (A) con el asistente virtual (WA):
 
 Si param1 = "enseñame de programación" y param2 = "el primero", entonces la conversación se transformaría en:
 - A: enseñame de programación
-- WA: te puedo enseñar de los siguientes lenguajes, Java, Python o Go. Cual de los 3 queres aprender?
+- WA: te puedo enseñar de los siguientes lenguajes, Java, Python o Go. Cual de los 3 querés aprender?
 - A: el primero
 - WA: Perfecto, te enseño de Java entonces
 
-Links de interes para este ejercicio:
+Links de interés para este ejercicio:
 - Watson Assistant Getting Started: https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started
 - Watson Assistant API Reference: https://cloud.ibm.com/apidocs/assistant/assistant-v2
 
