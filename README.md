@@ -9,7 +9,7 @@ El test consta de 4 pruebas que podrán ser resueltas utilizando alguno de los s
 - Go
 - .Net Core
 
-Al finalizar el test, se deberá dejar todo el código subido a un repositorio de github privado en tu cuenta personal cuya estructura será la siguiente
+Al finalizar el test, se deberá dejar todo el código subido a un repositorio de github (http://github.com) privado en tu cuenta personal cuya estructura será la siguiente
 
 ```
 NOMBRE_DEL_REPO_PRIVADO
