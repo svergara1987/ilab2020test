@@ -38,4 +38,5 @@ Desarrollar la función `pentagonalNumber (num)` para que dado el parámetro `nu
 
 Por ejemplo, en la imagen a continuación puede ver que en la primera iteración solo hay un punto, en la segunda iteración hay 6 puntos, en la tercera hay 16 puntos y en la cuarta hay 31 puntos.
 
-![alt](https://link)
+![alt](https://github.com/svergara1987/ilab2020test/blob/master/img/pentagonalNumber.png)
+
