@@ -2,12 +2,27 @@
 
 Bienvenido al test de programación para candidatos del **IBM Innovation Lab 2020**. 
 
-El test consta de X pruebas que podrán ser resueltas utilizando alguno de los siguientes lenguajes de programación: 
+El test consta de 4 pruebas que podrán ser resueltas utilizando alguno de los siguientes lenguajes de programación: 
 - Java
 - Javascript / Node.js
 - Python
 - Go
 - .Net Core
+
+Al finalizar el test, se deberá dejar todo el código subido a un repositorio de github privado en tu cuenta personal cuya estructura será la siguiente
+
+```
+NOMBRE_DEL_REPO_PRIVADO
+  |-- Ejercicio 1
+          |-- código del ejercicio 1
+  |-- Ejercicio 2
+          |-- código del ejercicio 2
+  |-- Ejercicio 3
+          |-- código del ejercicio 3
+  |-- Ejercicio 4
+          |-- código del ejercicio 4
+```
+Agregar como colaborador al repositorio al usuario `svergara1987`
 
 ## Ejercicio 1
 
