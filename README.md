@@ -13,6 +13,7 @@ Al finalizar el test, se deberá dejar todo el código subido a un repositorio d
 
 ```
 NOMBRE_DEL_REPO_PRIVADO
+  |-- README.md
   |-- Ejercicio 1
           |-- código del ejercicio 1
   |-- Ejercicio 2
@@ -22,20 +23,25 @@ NOMBRE_DEL_REPO_PRIVADO
   |-- Ejercicio 4
           |-- código del ejercicio 4
 ```
+En el README.md se debe explicar por ejercicio el razonamiento realizado y una breve explicación del código escrito. 
 Agregar como colaborador al repositorio al usuario `svergara1987`
 
 ## Ejercicio 1
 
-Codificar la función `factorial (num)` para que tome el parámetro `num` que se pasa y devuelva el factorial del mismo.
+Codificar la función `dobleFactorial (num)` para que tome el parámetro `num` que se pasa y devuelva el doble factorial del mismo.
 
-Por ejemplo: si num = 4, entonces tu programa debería devolver (4*3*2*1) = 24.
+El doblem factorial de un número depende de si es par o no. 
 
 La entrada siempre será un número entero.
 
 Ejemplos:
-- Entrada: 3 => Salida: 6
-- Entrada: 4 => Salida: 24
-- Entrada: 8 => Salida: 40320
+- Entrada: 3 => Salida: 3 * 1 = 3
+- Entrada: 4 => Salida: 4 * 2 = 8
+- Entrada: 5 => Salida: 5 * 3 * 1 = 15
+- Entrada: 6 => Salida: 6 * 4 * 2 = 48
+- Entrada: 7 => Salida: 7 * 5 * 3 * 1 = 105
+- Entrada: 8 => Salida: 8 * 6 * 4 * 2 = 384
+- Entrada: 9 => Salida: 9 * 7 * 5 * 3 * 1 = 945
 
 Tiempo estimado de resolución: < 20 min
 
@@ -55,7 +61,7 @@ Tiempo estimado de resolución: < 20 min
 
 Desarrollar la función `numeroPentagonal (num)` para que dado el parámetro `num`(entero positivo), determine cuántos puntos existen en una forma pentagonal alrededor de un punto central en la iteración número `num`.
 
-Por ejemplo, en la imagen a continuación puede ver que en la primera iteración solo hay un punto, en la segunda iteración hay 6 puntos, en la tercera hay 16 puntos y en la cuarta hay 31 puntos.
+Por ejemplo, en la imagen a continuación se puede ver que en la primera iteración solo hay un punto, en la segunda iteración hay 6 puntos, en la tercera hay 16 puntos y en la cuarta hay 31 puntos.
 
 ![numeroPentagonal](https://github.com/svergara1987/ilab2020test/blob/master/img/pentagonalNumber.png)
 
@@ -73,9 +79,7 @@ El asistente virtual deberá ser capaz de responder las siguientes preguntas (qu
 5. saludos de apertura de conversación
 6. saludos de cierre de conversación
 7. responder ante insultos o agravios
-8. responder a la pregunta de que dia es hoy
-9. responder a la pregunta que hora es (GMT-3 Montevideo)
-10. nombre completo?
+8. nombre completo?
 
 Las respuestas a las preguntas anteriores **DEBEN** ser personales, tal cual si las estuvieses respondiendo vos. 
 
